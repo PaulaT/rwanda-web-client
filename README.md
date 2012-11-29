@@ -1,4 +1,4 @@
 rwanda-web-client
 =================
 
-repository for the rwanda meterological agency website
+repository for the rwanda meteorological agency website
